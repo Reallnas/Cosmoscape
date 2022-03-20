@@ -1,0 +1,4 @@
+﻿
+-vaisseau="J'ai trouvé cette station spatiale dérivant dans l'espace !n!"
+           "Le message vient forcément de ce vaisseau, il faut que j'entre !n!"
+	   "Là-bas je vois une entrée, je devrais pouvoir y arriver"

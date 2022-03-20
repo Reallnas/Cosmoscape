@@ -1,0 +1,11 @@
+﻿
+-arrivée="Fiou.. Ça passait tout juste, bon il n'y a pas grand chose ici, mais ??? !n!" 
+	 "Que se passe t-il ??!!! Pourquoi est-ce que l'entrée se ferme ?"
+
+-robot= "Bonjour humain. Je suis l'IA de ce vaisseau, c'est moi qui vient de condamner la porte par laquelle tu es entré !n!"
+	"Tout l'équipage est parti il y a bien longtemps ne t'en fais pas pour eux, tu devrais plutôt te soucier de toi !n!"
+	"Maintenant que tu es ici je vais m'amuser un peu essaye donc d'atteindre la salle de contrôle plus loin ou reste ici jusqu'à la fin de tes jours"
+
+-porte_bloquee= "On dirait bien que cette porte est totalement bloquée... !n!"
+		"Mais attends je peux accéder aux circuits de la porte ici, voyons voir ce que je peux faire !"
+		

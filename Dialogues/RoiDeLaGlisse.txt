@@ -1,0 +1,4 @@
+﻿
+-description= "Pour cette énigme, vous devez allumer tous les récepteurs d'électricité."
+		"Pour cela, vous pouvez tourner les cables électriques en cliquant dessus pour acheminer"
+		"l'électricité vers les recepteurs."

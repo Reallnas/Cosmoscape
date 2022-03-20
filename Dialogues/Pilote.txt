@@ -1,0 +1,11 @@
+﻿
+-debut= "Hmm, pas grand chose d'intéressant à faire aujourd'hui. Je devrais peut-être changer de travail, en plus ce boulot paye pas bien, y'a plein risques, j'ai encore jamais eu d'augmentation, je suis tout seul ..."
+    	"Attends, mais qu'est-ce que c'est que ça ? !n!"
+	"Test ? Test ? Allo ? !n!"
+	"Personne... !n!"
+
+-robot= "sys..error785n471...HELP..transmi...icompl...SOS_send !n!"		
+	"...system...failure..."
+
+-reponse= "On dirait un SOS automatique, hmm il provient de cette région, il faut que j'aille voir. !n!"
+	  "Peut-être que des personnes sont en danger !"

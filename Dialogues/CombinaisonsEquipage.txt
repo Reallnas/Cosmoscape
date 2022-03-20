@@ -1,0 +1,4 @@
+﻿
+-regarde="On dirait les combinaisons de l'ancien équipage, peut-être que je peux trouver des choses utiles dans celles-ci"
+
+-code="Oh une inscription ! Il est écrit : Le code du premier couloir est 1784, pour ceux qui auraient la mémoire courte"

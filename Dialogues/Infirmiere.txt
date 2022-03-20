@@ -1,0 +1,11 @@
+
+-description= "Lors de leurs rondes, une infirmière et un médecin doivent rendre visite"
+	      "à neuf patients. En consultant la liste des numéros de chambre elles s'aperçoivent"
+	      "qu'il est possible de faire le tour de toutes les chambres en une seule ronde et"
+	      "en respectant la condition suivante : elles ne peuvent passer d'une chambre à une"
+	      "autre que si celles-ci ont au moins un chiffre en commun !$!"
+	      "Quelle sera la cinquième chambre sur leur parcours ? Cliquez sur le numéro correspondant"
+
+-faux="Non ! Ce n'est pas le bon numéro"
+
+-vrai="Exact ! La cinquième chambre sera bien la 63!$!"

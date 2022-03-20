@@ -1,0 +1,3 @@
+﻿
+-robot="Pas mal humain, mais ce n'est que le début, si tu veux sortir de ce vaisseau il va falloir te creuser de plus en plus les méninges et chercher des indices partout !n!"
+       "En seras-tu capable ? Nous allons le voir"

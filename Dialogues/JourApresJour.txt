@@ -1,0 +1,8 @@
+
+-description= "Sept jours après il y a 70 jours, nous étions dimanche."
+	      "Quel jour serons-nous sept jours avant dans 70 jours ?"
+	      "Cliquez sur le jour correspondant"
+
+-faux="Non ! Ce n'est pas le bon jour"
+
+-vrai="Exact ! Nous serons un dimanche!$!"
